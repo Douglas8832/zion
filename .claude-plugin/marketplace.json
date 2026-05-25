@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vision-zion",
+  "description": "ZION — 16 agentes + 22 skills proprietárias Vision AI para empresários brasileiros automatizarem o negócio com Claude Code. Inclui trillion-board, tax-board, trafego-pago-auditor, vision-premium-deck, weekly-sprint-planner e mais.",
+  "owner": {
+    "name": "Vision AI",
+    "email": "contato@visioncompany.ai",
+    "url": "https://visioncompany.ai"
+  },
+  "plugins": [
+    {
+      "name": "zion-pack",
+      "source": "./plugins/zion-pack",
+      "description": "Pacote ZION completo: 16 agentes especializados (vendas, marketing, financeiro, operação, RH, jurídico, email-executivo, proposta, relatório, reunião, conteúdo, trillion-board, tráfego-pago, tax, security, orquestra) + 22 skills proprietárias Vision AI para empresários brasileiros.",
+      "version": "1.0.0",
+      "category": "business",
+      "keywords": ["zion", "vision-ai", "business", "automation", "brazil", "empresarios", "smb", "agentes", "skills"]
+    }
+  ]
+}
