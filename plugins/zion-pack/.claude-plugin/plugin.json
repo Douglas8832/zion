@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "zion-pack",
+  "version": "1.0.0",
+  "description": "ZION é o framework operacional Vision AI: 16 agentes especializados + 22 skills proprietárias que transformam o Claude Code em copiloto de negócios completo para empresários brasileiros.",
+  "author": {
+    "name": "Vision AI",
+    "email": "contato@visioncompany.ai",
+    "url": "https://visioncompany.ai"
+  },
+  "homepage": "https://github.com/Douglas8832/zion",
+  "repository": "https://github.com/Douglas8832/zion",
+  "license": "MIT",
+  "keywords": ["vision-ai", "zion", "business-automation", "brazil", "smb", "trillion-board", "tax-board-brasil", "trafego-pago"]
+}
